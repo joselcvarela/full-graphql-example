@@ -1,0 +1,88 @@
+[
+	{
+		"id": "1",
+		"title": "PRODUCT 1",
+		"subtitle": "SUBTITLE PRODUCT 1",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "2",
+		"title": "PRODUCT 2",
+		"subtitle": "SUBTITLE PRODUCT 2",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "3",
+		"title": "PRODUCT 3",
+		"subtitle": "SUBTITLE PRODUCT 3",
+		"price": "120",
+		"priceDiscounted": "100",
+		"image": "images/product.png"
+	},
+	{
+		"id": "4",
+		"title": "PRODUCT 4",
+		"subtitle": "SUBTITLE PRODUCT 4",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "5",
+		"title": "PRODUCT 5",
+		"subtitle": "SUBTITLE PRODUCT 5",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "6",
+		"title": "PRODUCT 6",
+		"subtitle": "SUBTITLE PRODUCT 6",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "7",
+		"title": "PRODUCT 7",
+		"subtitle": "SUBTITLE PRODUCT 7",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "8",
+		"title": "PRODUCT 8",
+		"subtitle": "SUBTITLE PRODUCT 8",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "9",
+		"title": "PRODUCT 9",
+		"subtitle": "SUBTITLE PRODUCT 9",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "10",
+		"title": "PRODUCT 10",
+		"subtitle": "SUBTITLE PRODUCT 10",
+		"price": "120",
+		"priceDiscounted": "100",
+		"image": "images/product.png"
+	},
+	{
+		"id": "11",
+		"title": "PRODUCT 11",
+		"subtitle": "SUBTITLE PRODUCT 11",
+		"price": "120",
+		"image": "images/product.png"
+	},
+	{
+		"id": "12",
+		"title": "PRODUCT 12",
+		"subtitle": "SUBTITLE PRODUCT 12",
+		"price": "120",
+		"image": "images/product.png"
+	}
+]
